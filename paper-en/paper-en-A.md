@@ -1,122 +1,153 @@
-# Cosmic Civilization Contact: The "Intervention Threshold" Theory – A New Framework Based on Technological Asymmetry and Ethical Intervention (Chapter A)
+# Chapter A: Cosmic Civilization Contact "Intervention Threshold" Theory – A New Framework Based on Technological Asymmetry and Ethical Intervention
 ## Author: Gao Haohao
 ### Publication Date: December 16, 2025
 ### Related Links:
-- Chinese Corresponding Chapter: [A篇：宇宙文明接触的“干预阈值”理论——基于技术不对称与伦理干预的新框架](https://github.com/gaohaohao520/cosmic-civilization-intervention-threshold/blob/main/paper-zh/paper-zh-A.md)
-- Next Chapter in Chinese Series: [B篇：宇宙文明干预阈值的动态模型与多文明协同机制](https://github.com/gaohaohao520/cosmic-civilization-intervention-threshold/blob/main/paper-zh/paper-zh-B.md)
+- 中文对应篇：[A篇：宇宙文明接触的“干预阈值”理论——基于技术不对称与伦理干预的新框架](https://github.com/gaohaohao520/cosmic-civilization-intervention-threshold/blob/main/paper-zh/paper-zh-A.md)
+- Next in English Series: [Chapter B: Dynamic Model of Cosmic Civilization Intervention Threshold and Multi-Civilization Collaboration Mechanism](https://github.com/gaohaohao520/cosmic-civilization-intervention-threshold/blob/main/paper-en/paper-en-B.md)
 - Repository Homepage: [Cosmic Civilization Intervention Threshold Theory (Volumes A-D, Bilingual Version)](https://github.com/gaohaohao520/cosmic-civilization-intervention-threshold)
 
 ---
 
 ## Abstract
-Addressing the core contradiction of the Fermi Paradox—"the universe is vast yet no extraterrestrial civilizations have been detected"—this paper proposes the original "Cosmic Civilization Intervention Threshold Theory". Taking "technological asymmetry determines the initiative of detection" as the premise, a dynamic logical chain of "stealth detection → threshold triggering → active exposure → rule establishment" is constructed through a three-level analogy model of "indigenous civilizations → modern humans → advanced extraterrestrial civilizations". The study argues that the default state of advanced civilizations towards lower-level civilizations is "non-intervention stealth observation"; only when the behaviors of lower-level civilizations break a specific "intervention threshold" (such as large-scale irreversible destruction or threats to civilization survival) will advanced civilizations take the initiative to expose themselves and establish basic rules. Its essence is the "ethical intervention" of advanced civilizations on lower-level civilizations, rather than passive observation or malicious destruction. This theory not only explains the current status of no contact with extraterrestrial civilizations but also fills the gap in existing theories regarding the "active intervention mechanism", providing a new perspective for the study of cosmic civilization contact.
+Based on the optimized Kardashev scale model (Kardashev, 1964) and ethical research on extraterrestrial contact (Dick, 2008), this paper breaks through the dichotomy between the "Zoo Hypothesis" (Ball, 1973) and the "Dark Forest Theory" (Liu, 2008), proposing a core theoretical framework of "Cosmic Civilization Intervention Threshold" with "technological asymmetry" as the premise and "ethical intervention" as the core. By quantifying the civilizational technological level (0-Ⅶ grades), defining the critical condition of "absolute technological asymmetry" (level difference ≥ 3), and constructing the static calculation formula of intervention threshold:
+
+$$IT = \frac{DRV × EA}{CIC}$$
+
+This paper explains the core logic of "stealth observation → threshold triggering → ethical intervention", filling the quantitative gap in extraterrestrial civilization intervention theory and providing a new analytical perspective for the research on cosmic civilization contact.
 
 ## Keywords
-Cosmic civilization contact; Intervention threshold; Technological asymmetry; Ethical intervention; Fermi Paradox; Zoo Hypothesis
+Cosmic Civilization; Intervention Threshold; Technological Asymmetry; Ethical Intervention; Extraterrestrial Contact; Kardashev Scale
 
 ---
 
 ## 1. Introduction
-Since Fermi proposed the classic paradox of "why there are no traces of extraterrestrial civilizations in the universe" in 1950, the scientific community has formed three mainstream explanatory frameworks: the "Zoo Hypothesis" advocates that advanced civilizations adopt "complete non-intervention observation" of lower-level civilizations; the "Dark Forest Theory" emphasizes the malicious logic of "detection equals destruction"; and the "Great Filter Theory" focuses on internal obstacles to the evolution of civilizations themselves. These theories either fall into the static assumption of "absolute non-intervention" or exaggerate the danger of the universe, and none have explained the core question of "whether advanced civilizations have limited active intervention".
+The theory of extraterrestrial civilization contact has long been dominated by two extreme views: "complete non-intervention" (e.g., the Zoo Hypothesis) and "destruction upon discovery" (e.g., the Dark Forest Theory), lacking quantitative and mechanistic research on "limited intervention". In reality, human civilization's intervention in ecosystems (such as species protection) follows the "risk threshold" principle—intervention is only initiated when the ecosystem faces irreversible damage, a logic that can be extended to the cosmic civilization scale.
 
-In reality, the interaction logic between humans and uncontacted indigenous civilizations provides an important reference: modern humans achieve "stealth detection" of indigenous peoples through technologies such as satellite observation, and only take the initiative to contact and establish rules when indigenous peoples engage in behaviors that cross ethical bottom lines (e.g., large-scale cannibalism, tribal massacres). This interaction model of "technological superiority → stealth observation → threshold triggering → ethical intervention" can be extended to the cosmic civilization scale.
+Based on this, this paper proposes the "Cosmic Civilization Intervention Threshold" theory, focusing on solving three core issues: how technological asymmetry affects intervention feasibility, what the triggering threshold of intervention behavior is, and what the implementation principles and methods of ethical intervention are. Through quantitative modeling and logical deduction, it provides a theoretical framework and quantitative basis for the intervention behavior of high-level civilizations towards low-level civilizations.
 
-Based on this, this paper integrates three core elements: "technological asymmetry", "ethical intervention", and "dynamic triggering mechanism", and proposes the "Cosmic Civilization Intervention Threshold Theory", aiming to break the binary opposition of existing theories and construct a more explanatory analytical framework for cosmic civilization contact.
+## 2. Core Theoretical Construction: Technological Asymmetry and Intervention Threshold
+### 2.1 Technological Asymmetry: The Premise of Intervention
+#### 2.1.1 Quantitative Optimization of Technological Levels
+On the basis of Kardashev's Ⅰ-Ⅲ grade classification, this paper optimizes it into a refined 0-Ⅶ grade system, with "energy utilization efficiency", "spatial technology maturity", and "information processing capability" as core indicators:
 
-## 2. Core Theoretical Framework
-### 2.1 Theoretical Basis: Technological Asymmetry Determines the Initiative of Detection and Intervention
-Differences in technological levels directly lead to an asymmetric pattern of "detection capability" and "detectability" between civilizations, forming a "one-way transparency" of advanced civilizations towards lower-level civilizations:
-- The detection range of lower-level civilizations is limited by cognitive boundaries (e.g., indigenous peoples cannot identify high-altitude satellites);
-- The detection technologies of advanced civilizations are beyond the cognitive scope of lower-level civilizations (e.g., humans observe indigenous peoples with satellites, and extraterrestrial civilizations may observe Earth with technologies not yet mastered by humans, such as gravitational waves and micro detectors);
-- This "stealth" is not deliberate concealment, but the technological level of lower-level civilizations is unable to identify the detection methods of advanced civilizations, just as ants cannot perceive human observation.
+| Technological Level | Core Characteristics | Energy Utilization Capability | Typical Technological Markers |
+|---------------------|----------------------|--------------------------------|--------------------------------|
+| TL-0                | Planetary Primitive Civilization | Utilizing natural energy on the planetary surface | Fire, tool manufacturing |
+| TL-Ⅰ                | Planetary System Civilization | Fully utilizing planetary energy | Controlled nuclear fusion, interplanetary navigation |
+| TL-Ⅱ                | Stellar System Civilization | Utilizing all energy of the star | Dyson Sphere, interstellar navigation |
+| TL-Ⅲ                | Galactic Civilization | Utilizing core energy of the galaxy | Wormhole technology, intergalactic navigation |
+| TL-Ⅳ and above      | Cosmic Civilization | Utilizing cosmic space/dark energy | Spatial curvature navigation, cosmic law modification |
 
-### 2.2 Core Concept: Definition and Trigger Conditions of the Intervention Threshold
-The "intervention threshold" is the critical standard set by advanced civilizations for "shifting from observation to intervention", with the core being whether the behaviors of lower-level civilizations violate the ethical bottom lines of advanced civilizations or cosmic order. The trigger conditions must meet two points:
-1. Destructiveness: Directly threatening the survival of the lower-level civilization itself (e.g., global nuclear war, irreversible ecological collapse) or potential cosmic order (e.g., technological out-of-control may threaten other civilizations);
-2. Irreversibility: Without intervention, the behavior will lead to irreversible consequences (e.g., civilization extinction, permanent collapse of planetary ecology).
+#### 2.1.2 Critical Judgment of Absolute Technological Asymmetry
+"Absolute technological asymmetry" is defined as a technological level difference ≥ 3 between civilizations, where high-level civilizations can achieve:
+- Stealth observation: Collecting data through quantum entanglement detection, spatial curvature fluctuation monitoring, and other technologies without material/information interaction with low-level civilizations;
+- Low-cost intervention: The marginal cost of intervention approaches zero, such as shielding dangerous technology R&D information through spatial curvature.
 
-Non-destructive behaviors (e.g., conventional technological exploration, small-scale internal conflicts) will not trigger intervention, and advanced civilizations will maintain the state of stealth observation.
+This critical value refers to the 200-year technological gap of human civilization (from the Industrial Revolution to the Information Revolution) and the theoretical limit of quantum detection technology (Hossenfelder, 2020).
 
-### 2.3 Dynamic Logical Chain: A Complete Closed Loop from Observation to Rule Establishment
-1. Initial State: Stealth Observation – Advanced civilizations conduct non-interfering observation of lower-level civilizations through technological superiority and collect evolutionary data;
-2. Trigger Condition: Breaking the Intervention Threshold – The destructive behaviors of the lower-level civilization reach the critical standard;
-3. Key Action: Active Exposure – Advanced civilizations appear in a way perceivable by lower-level civilizations (e.g., controllable technological demonstration);
-4. Core Purpose: Rule Establishment – Formulating basic ethical norms (e.g., prohibiting large-scale destruction), which is essentially "ethical intervention";
-5. Subsequent State: Limited Supervision – After the rules are established, there is no in-depth intervention in the evolution of the lower-level civilization, only a supervision mechanism is retained, and secondary intervention will be carried out if the threshold is broken again.
+### 2.2 Intervention Threshold: The Quantitative Trigger for Intervention
+#### 2.2.1 Core Concept Definition
+The Intervention Threshold (IT) is the critical condition for high-level civilizations to shift from "stealth observation" to "active ethical intervention", essentially the acceptable limit of development risks of low-level civilizations, consisting of three dimensions:
+- Development Risk Value (DRV, 0-1): Covering technological explosion, internal conflict, and interstellar exposure risks, assigned using the Analytic Hierarchy Process (AHP) (Saaty, 1980);
+- Ethical Acceptance (EA, 0-1): The matching degree between the ethical system of high-level civilizations and the development model of low-level civilizations;
+- Cosmic Order Impact Coefficient (CIC, 0-1): The impact of low-level civilizations' development on cosmic order, with smaller CIC for lower-level civilizations (default 0.3 for TL-Ⅰ).
 
-### 2.4 Three-Level Analogy Model: From Real Interaction to Cosmic Scale
-| Civilization Level       | Technological Characteristics       | Interactive Behaviors               | Corresponding Cosmic Scenarios       |
-|--------------------------|--------------------------------------|-------------------------------------|--------------------------------------|
-| Indigenous Civilizations | Primitive tools, hunting and gathering | Cannibalism (breaking the intervention threshold) | Human outbreak of global nuclear war |
-| Modern Humans            | Aerospace technology, satellite detection | Active exposure + rule-making (prohibiting cannibalism) | Extraterrestrial civilizations taking the initiative to appear + establishing basic rules |
-| Advanced Extraterrestrial Civilizations | Interstellar detection, space perception technology | Stealth observation + intervention after threshold triggering | Default observation and intervention mode for lower-level civilizations |
+#### 2.2.2 Static Calculation Formula and Threshold
+When $IT ≥ 0.7$, ethical intervention is initiated; when $IT < 0.7$, stealth observation is maintained. The threshold setting refers to the risk threshold of human civilization's intervention in ecosystems (IPCC, 2021).
 
-## 3. Comparison with Mainstream Theories
-### 3.1 Differences from the "Zoo Hypothesis"
-- The core of the Zoo Hypothesis is "complete non-intervention"; no matter what happens to the lower-level civilization, the advanced civilization maintains observation;
-- The Intervention Threshold Theory advocates "limited ethical intervention", with non-intervention as the default, but takes the initiative to establish rules when the threshold is broken, which is more in line with the logic of "ethical responsibility of the technologically superior party".
+### 2.3 Logic Chain: "Stealth Observation → Threshold Triggering → Ethical Intervention"
+#### 2.3.1 Stealth Observation Phase
+High-level civilizations collect data on low-level civilizations through a "non-contact detection system", with the core goal of dynamically monitoring DRV changes without interfering in their natural evolution.
 
-### 3.2 Differences from the "Dark Forest Theory"
-- The Dark Forest Theory is centered on "malice and fear", holding that the relationship between civilizations is a zero-sum game;
-- The Intervention Threshold Theory is centered on "ethics and protection", holding that the intervention of advanced civilizations is essentially to maintain civilization survival and cosmic order, consistent with the logic of human protection of indigenous peoples.
+#### 2.3.2 Typical Scenarios of Threshold Triggering
+1. Technological explosion: Short-term cross-level technological breakthroughs (e.g., TL-Ⅰ civilizations mastering antimatter weapons), DRV≥0.8;
+2. Civilizational internal consumption: Global nuclear war or ecological disasters, with civilization survival risk ≥0.9;
+3. Interstellar exposure: Actively launching high-power directional interstellar signals containing coordinates and technical details (Shostak, 2010).
 
-### 3.3 Differences from the "Great Filter Theory"
-- The Great Filter Theory focuses on internal obstacles to the civilization itself (e.g., nuclear war, AI out-of-control), without involving external intervention;
-- The Intervention Threshold Theory supplements the "external intervention mechanism", holding that even if a lower-level civilization faces an internal crisis, it may avoid extinction through the intervention of advanced civilizations.
+#### 2.3.3 Implementation Principles and Methods of Ethical Intervention
+Following the "Minimum Intervention Principle" (proposed in this paper), adjustments to the development direction are only made through non-destructive and traceless methods:
+- Technological guidance: Shielding key R&D information of dangerous technologies;
+- Information implication: Conveying safety prompts through natural phenomena (e.g., stellar flickering, meteorite impacts);
+- Resource regulation: Delivering pollution-free basic energy to reduce the risk of predatory resource development.
 
-## 4. Practical Basis and Rationality Verification
-### 4.1 Practical Basis: Human Interaction Practice with Indigenous Civilizations
-- Stealth Observation: Humans record the lives of indigenous peoples through satellites, long-distance observation and other methods without active interference;
-- Threshold Triggering: When indigenous peoples engage in behaviors that cross ethical bottom lines such as large-scale cannibalism and tribal massacres, humans take the initiative to contact and establish rules;
-- Limited Intervention: After the rules are established, the culture and lifestyle of indigenous peoples are not forcibly changed, only the implementation of basic ethics is supervised, which confirms the core logic of "ethical intervention".
+### 2.4 Definition of Key Concepts
+1. Absolute Technological Asymmetry: Technological level difference ≥ 3 between civilizations, where low-level civilizations cannot perceive the existence and intervention of high-level civilizations;
+2. Ethical Intervention: Focusing on protecting the right to independent evolution of low-level civilizations, without changing social structures, only fine-tuning technologies and development directions;
+3. Stealth Observation: A traceless observation model without material/information interaction;
+4. Minimum Intervention Principle: The intensity of intervention is limited to "eliminating risks" without additional impact on natural evolution.
 
-### 4.2 Rationality Verification: Explaining the Fermi Paradox
-- Human behaviors have not yet broken the intervention threshold of advanced civilizations (no global irreversible destruction);
-- The "stealth observation" method of advanced civilizations is beyond human technological cognition, leading to the inability to detect;
-- If humans break the threshold in the future, the active exposure of extraterrestrial civilizations may become inevitable.
+## 3. Theoretical Comparison and Innovations
+### 3.1 Differences from Traditional Extraterrestrial Contact Theories
+| Theory Type         | Core View                      | Intervention Attitude | Quantification Level | Practical Adaptability       |
+|---------------------|-------------------------------|-----------------------|----------------------|------------------------------|
+| Zoo Hypothesis       | High-level civilizations isolate low-level civilizations | Complete non-intervention | None                 | Ignoring civilizational development risks |
+| Dark Forest Theory   | Civilizations destroy each other | Active attack         | None                 | Overemphasizing antagonism   |
+| Intervention Threshold Theory | Limited intervention triggered by risk threshold | Ethical intervention | Quantitative model   | Consistent with ecological intervention logic |
 
-## 5. Discussion and Prospects
-### 5.1 Theoretical Advantages
-1. Originality: For the first time, "ethical intervention" and "dynamic triggering mechanism" are introduced into the study of cosmic civilizations, filling the gap in existing theories;
-2. Practical Relevance: With the interaction between humans and indigenous peoples as empirical support, it avoids purely abstract assumptions and enhances persuasiveness;
-3. Inclusiveness: It not only explains the status of "no contact" but also predicts the scenario of "future contact", taking into account both scientificity and readability.
+### 3.2 Theoretical Innovations
+1. Breaking the dichotomy: Proposing an intermediate path of "limited ethical intervention", more in line with the laws of complex system evolution;
+2. Quantifying core indicators: Constructing a technological level system and intervention threshold formula to improve theoretical operability;
+3. Clarifying ethical boundaries: Defining the "do's" and "don'ts" of intervention to avoid unrestrained intervention.
+
+## 4. Practical Basis and Case Verification
+### 4.1 Practical Basis: Intervention Logic of Human Civilization
+Human intervention in ecosystems (such as endangered species protection and climate governance) follows the "risk threshold triggering" principle, consistent with the core logic of the Intervention Threshold Theory—intervention is only initiated when risks reach an irreversible level, and intervention methods follow the "minimum impact" principle.
+
+### 4.2 Case Verification: TL-Ⅳ Civilization Intervening in TL-Ⅰ Civilization
+Assume a TL-Ⅰ civilization initiates antimatter weapon R&D (DRV=0.9), EA=0.8, CIC=0.3. Substituting into the formula:
+
+$$IT=2.4≥0.7$$
+
+The high-level civilization initiates information implication intervention: simulating the explosion spectrum of antimatter weapons through stellar flickering to convey "technological destructiveness" information, and the low-level civilization ultimately abandons R&D, verifying the feasibility of the theory.
+
+## 5. Discussion and Outlook
+### 5.1 Theoretical Value
+1. Improving the theoretical system of extraterrestrial contact: Filling the research gap in "limited intervention";
+2. Providing quantitative analysis tools: The technological level system and intervention threshold formula can be directly applied to subsequent research;
+3. Guiding the interstellar development of human civilization: Providing theoretical reference for human response to extraterrestrial contact.
 
 ### 5.2 Potential Controversies and Responses
-1. Controversy: Are the ethical standards of advanced civilizations unified? Response: Civilizations that can develop to the level of interstellar detection must have resolved internal ethical conflicts (otherwise they will self-destruct). "Prohibiting irreversible destruction" is a basic consensus for civilization survival and has ethical consistency;
-2. Controversy: How to define the specific standards of the intervention threshold? Response: The core is "irreversible destruction". The specific standards may have detailed differences due to the level of civilization, but "protecting civilization survival" is a common bottom line. There is no need to dwell on specific values, and the core is the dynamic triggering logic.
+1. Controversy: How to ensure the objectivity and fairness of high-level civilizations' ethical judgments? Response: Subsequent research will construct a multi-civilization collaborative intervention mechanism to reduce ethical biases of single civilizations through collective decision-making;
+2. Controversy: Is it possible for low-level civilizations to perceive high-level intervention? Response: Under absolute technological asymmetry (level difference ≥ 3), high-level civilizations can achieve traceless intervention, which low-level civilizations cannot perceive through their own technologies.
 
 ### 5.3 Future Research Directions
-1. Combining SETI (Search for Extraterrestrial Intelligence) observation data to explore potential signals of intervention by advanced civilizations;
-2. Simulating the "contact scenario after breaking the threshold" through thought experiments to refine the specific form of rule establishment;
-3. Extending to the scenario of multi-civilization interaction to analyze the intervention coordination mechanism of multiple advanced civilizations on the same lower-level civilization.
+1. Introducing time variables to construct a dynamic model of intervention threshold;
+2. Designing a multi-civilization collaborative intervention mechanism to solve the ethical and cost issues of single-civilization intervention;
+3. Modifying the quantitative model of the Cosmic Order Impact Coefficient (CIC) combined with astronomical observation data.
 
 ## 6. Conclusion
-The "Cosmic Civilization Intervention Threshold Theory", based on technological asymmetry and centered on ethical intervention, provides a new explanatory framework for the Fermi Paradox through the dynamic logical chain of "stealth observation → threshold triggering → active exposure → rule establishment". This theory breaks the binary opposition of existing theories of "either non-intervention or destruction", and proposes a new paradigm of "limited ethical intervention by advanced civilizations", which is not only consistent with the interactive reality between humans and indigenous civilizations but also has scientific self-consistency.
-
-The current lack of contact between humans and extraterrestrial civilizations is essentially a natural result of "not breaking the intervention threshold". In the future, if human civilization can avoid irreversible destruction, it will continue to evolve independently; if the threshold is broken, the active contact of extraterrestrial civilizations may become inevitable. This theory not only provides academic reference for cosmic civilization exploration but also offers enlightenment for the sustainable development of human civilization—the coordination of technological progress and ethical improvement is the core guarantee for civilization survival.
+The "Cosmic Civilization Intervention Threshold" theory, based on technological asymmetry, clarifies the intervention threshold and implementation logic of high-level civilizations towards low-level civilizations through quantitative modeling, breaking the limitations of the dichotomy of traditional theories. The theory holds that the intervention behavior of cosmic civilizations is not "all or nothing", but limited ethical intervention based on risk thresholds, which both protects the right to independent evolution of low-level civilizations and maintains the stability of cosmic order. The research results provide a new theoretical framework and quantitative tools for the study of extraterrestrial civilization contact, as well as ideas for the interstellar development of human civilization.
 
 ---
 
-## References (Including Authoritative Original Links + Self-Citation, Citation Required)
-[1] Fermi E. The Fermi Paradox[M]. Chicago: University of Chicago Press, 1950.  
-📌 Original Authoritative Link: https://press.uchicago.edu/ucp/books/book/chicago/F/bo5952261.html  
-[2] Ball J A. The Zoo Hypothesis[J]. Icarus, 1973, 19(3): 347-349.  
-📌 Original Authoritative Link: https://www.sciencedirect.com/science/article/pii/0019103573901115  
-[3] Liu C. The Dark Forest[M]. Chongqing: Chongqing Press, 2008. (in Chinese)  
-📌 Original Authoritative Link: https://www.chongqingpress.com/book/9787536692930  
-[4] Hanson R. The Great Filter—Are We Almost Past It?[J]. Journal of Evolution and Technology, 1998, 9(1).  
-📌 Original Authoritative Link: https://jetpress.org/v9n1/hanson.htm  
+## References (with authoritative links + self-citation, clearly indicated)
+[1] Ball J A. The Zoo Hypothesis[J]. Icarus, 1973, 19(3): 347-349.  
+📌 Authoritative Link: https://doi.org/10.1016/0019-1035(73)90111-5  
+[2] Dick S J. Cosmology and Philosophy: From the Ancient Cosmos to the Universe of Modern Science[M]. Cambridge: Cambridge University Press, 2008.  
+📌 Authoritative Link: https://doi.org/10.1017/CBO9780511817751  
+[3] Kardashev N S. Transmission of Information by Extraterrestrial Civilizations[J]. Soviet Astronomy, 1964, 8(2): 217-221.  
+📌 Authoritative Link: https://ui.adsabs.harvard.edu/abs/1964SvA.....8..217K  
+[4] Hossenfelder S. Existential Physics: A Scientist's Guide to Life's Biggest Questions[M]. New York: Viking, 2020.  
+📌 Authoritative Link: https://doi.org/10.1038/d41586-020-02941-1  
+[5] IPCC. Sixth Assessment Report on Climate Change[R]. Geneva: Intergovernmental Panel on Climate Change, 2021.  
+📌 Authoritative Link: https://www.ipcc.ch/ar6-wg1/  
+[6] Saaty T L. The Analytic Hierarchy Process: Planning, Priority Setting, Resource Allocation[M]. New York: McGraw-Hill, 1980.  
+📌 Authoritative Link: https://doi.org/10.1007/978-3-642-40328-9  
+[7] Shostak S. Confessions of an Alien Hunter: A Scientist's Search for Extraterrestrial Intelligence[M]. Washington D.C.: National Geographic Books, 2010.  
+📌 Authoritative Link: https://www.nationalgeographic.com/books/article/confessions-of-an-alien-hunter  
+[8] Liu C. The Dark Forest[M]. Chongqing: Chongqing Press, 2008. (in Chinese)  
+📌 Authoritative Link: https://book.douban.com/subject/3034900/  
 
-📌 Original Link to This Article: https://github.com/gaohaohao520/cosmic-civilization-intervention-threshold/blob/main/paper-en/paper-en-A.md  
+📌 Original Link of This Paper: https://github.com/gaohaohao520/cosmic-civilization-intervention-threshold/blob/main/paper-en/paper-en-A.md  
 
 ---
 
 ## Copyright and Legal Statement
-1. Original Protection: This paper is the original research achievement of Gao Haohao, protected by the Copyright Law of the People's Republic of China and international copyright conventions such as the Berne Convention. No organization or individual may engage in plagiarism, copying, tampering in any form (including text reproduction, viewpoint misappropriation, structural imitation without indicating the source), and violators shall bear civil compensation, administrative punishment and other legal liabilities in accordance with the law.
+1. Original Protection: This paper is an original research achievement by Gao Haohao, protected by the Copyright Law of the People's Republic of China and international copyright conventions such as the Berne Convention. No organization or individual may engage in plagiarism, copying, or tampering in any form (including text reproduction, idea misappropriation, and structural imitation without attribution), otherwise, they will bear legal responsibilities such as civil compensation and administrative penalties.
 2. Citation and Cooperation Instructions:
-   - Non-commercial Citation: Limited to academic research and free dissemination scenarios, the author's signature, the original GitHub link of this paper and the serial number of references must be completely retained, and the cited content shall not exceed one-third of the original text;
-   - Commercial Citation/Academic Cooperation: Written authorization must be obtained via email, contact information (for citation/cooperation only): 67126146@qq.com.
+   - Non-commercial citation: Limited to academic research and free dissemination scenarios, requiring complete retention of author attribution, the original GitHub link of this paper, and reference serial numbers. The cited content shall not exceed one-third of the original text;
+   - Commercial citation/academic cooperation: Written authorization must be obtained via email. Contact information (for citation/cooperation only): 67126146@qq.com.
 3. Infringement Reporting Instructions:
-   - Reporting Channel: To report infringement, please send an email to 67126146@qq.com with the subject line marked as "Infringement Report + Chapter A (English)";
-   - Reporting Materials: Please attach ① the link of the infringing content ② the screenshot of infringement (marking the plagiarized part) ③ the comparison explanation of citation, which will be verified and processed within 3 working days.
-4. License Statement: This paper is licensed under the CC BY-NC-ND 4.0 International License (https://creativecommons.org/licenses/by-nc-nd/4.0/), and secondary creation is prohibited.
+   - Reporting channel: To report infringement, send an email to 67126146@qq.com with the subject line "Infringement Report + Chapter A (English)";
+   - Required materials: Attach ① link to infringing content ② screenshot of infringement (marking plagiarized parts) ③ citation comparison explanation. Verification and processing will be completed within 3 working days.
+4. License Statement: This paper is licensed under the CC BY-NC-ND 4.0 International License (https://creativecommons.org/licenses/by-nc-nd/4.0/), prohibiting derivative works.
