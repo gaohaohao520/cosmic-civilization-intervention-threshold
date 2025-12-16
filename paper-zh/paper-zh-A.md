@@ -116,7 +116,7 @@ $$IT = \frac{DRV × EA}{CIC}$$
 
 ---
 
-## 参考文献（含权威原处链接+自我引用，引用必注明）
+## 参考文献
 [1] Ball J A. The Zoo Hypothesis[J]. Icarus, 1973, 19(3): 347-349.  
 📌 原文权威链接：https://doi.org/10.1016/0019-1035(73)90111-5  
 [2] Dick S J. Cosmology and Philosophy: From the Ancient Cosmos to the Universe of Modern Science[M]. Cambridge: Cambridge University Press, 2008.  
