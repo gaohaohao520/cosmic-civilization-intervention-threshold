@@ -117,7 +117,7 @@ $$NRS = 0.4×N + 0.3×R + 0.3×S$$
 
 ---
 
-## 参考文献（含权威原处链接+自我引用，引用必注明）
+## 参考文献
 [1] UNESCO. Universal Declaration on the Human Genome and Human Rights[R]. Paris: United Nations Educational, Scientific and Cultural Organization, 1997.  
 📌 原文权威链接：https://unesdoc.unesco.org/ark:/48223/pf0000108981  
 [2] Cockell C S. Ethics and Extraterrestrial Life: A Review[J]. Astrobiology, 2011, 11(8): 791-804.  
