@@ -111,7 +111,7 @@ A篇提出的“宇宙文明干预阈值理论”明确了“技术不对称→�
 
 ---
 
-## 参考文献（含权威原处链接+自我引用，引用必注明）
+## 参考文献
 [1] Saaty T L. The Analytic Hierarchy Process: Planning, Priority Setting, Resource Allocation[M]. New York: McGraw-Hill, 1980.  
 📌 原文权威链接：https://doi.org/10.1007/978-3-642-40328-9  
 [2] Zhou Y. Entropy Weight Method for Multi-Index Evaluation of Urban Sustainable Development[J]. Journal of Urban Planning, 2012, 18(3): 45-50.（in Chinese）  
