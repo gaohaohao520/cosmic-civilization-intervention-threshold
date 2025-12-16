@@ -127,7 +127,7 @@ $$IT = \frac{0.6×0.8}{0.3} = 1.6 ≥ 0.7$$
 
 ---
 
-## 参考文献（含权威原处链接+自我引用，引用必注明）
+## 参考文献
 [1] IPCC. Sixth Assessment Report on Climate Change[R]. Geneva: Intergovernmental Panel on Climate Change, 2021.  
 📌 原文权威链接：https://www.ipcc.ch/ar6-wg1/  
 [2] Shostak S. Confessions of an Alien Hunter: A Scientist's Search for Extraterrestrial Intelligence[M]. Washington D.C.: National Geographic Books, 2010.  
